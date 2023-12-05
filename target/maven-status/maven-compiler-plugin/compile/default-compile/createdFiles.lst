@@ -1,0 +1,5 @@
+com\pruebaApi1\repository\PersonaRepository.class
+com\pruebaApi1\controller\PersonaController.class
+com\pruebaApi1\model\Persona.class
+com\pruebaApi1\PruebaApi1Application.class
+com\pruebaApi1\service\PersonaService.class
